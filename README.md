@@ -35,6 +35,8 @@ While my professional background is in fullstack development, I dedicate my pers
 
 ## 🚀 My Projects
 
+*While most of my day-to-day development takes place in privately-hosted environments, I use this profile as a curated portfolio to showcase some of my key projects.*
+
 ### [WallStreetBets Sentiment Analysis Pipeline](https://github.com/robinkng02/wsb-sentiment-analysis)
 A fully automated, end-to-end pipeline that extracts, analyzes, and visualizes market sentiment from Reddit in real-time using custom-trained NLP models.
 - **Technologies:** Python, spaCy, Transformers (T5), Streamlit, SQLite
