@@ -56,4 +56,4 @@ A personal dashboard for backtesting trading strategies on historical data and a
 I'm always open to discussing new projects, creative ideas, or opportunities. Feel free to connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-robin-könig/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robinkoenig2002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christopherrobin.koenig@gmail.com)
